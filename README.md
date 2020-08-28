@@ -29,4 +29,4 @@ Python implementation of Multi-slice as well [Multi-layer Born](https://www.osap
 
 ## Updates
 08/27/2020:
-1. Added first version of code to repo. Slightly updated version compared to what is used in the paper.
+1. Added first public version of code to repo. This is an updated version compared to what is used in the paper.
