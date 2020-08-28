@@ -25,7 +25,7 @@ README.txt contains information about the organization of the data in the C. ele
 4. Run main_data.m to run MSBP inverse recontruction on C. elegan data
 
 ## Resources
-Python implementation of Multi-slice as well [Multi-layer Born](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-7-5-394) scattering models can be found [here](https://github.berkeley.edu/Waller-Lab/multi-layer-born).
+Python implementation of Multi-slice as well [Multi-layer Born](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-7-5-394) scattering models can be found [here](https://github.com/Waller-Lab/multi-layer-born).
 
 ## Updates
 08/27/2020:
